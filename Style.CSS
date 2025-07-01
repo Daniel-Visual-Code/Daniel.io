@@ -1,0 +1,145 @@
+.linkedin-btn {
+    background-image: url('Linkedin.png');
+    background-size: cover;
+    background-position: center;
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    z-index: 8;
+    position: absolute;
+    margin-left: 35%;
+    margin-top: 23%;  
+}
+
+.Heart{
+    background-image: url('Heart.png');
+    background-size: cover;
+    background-position: center;
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    z-index: 8;
+    position: absolute;
+    margin-top: 23%;
+    margin-left: 60%; 
+    background-color: #007ebb;
+}
+
+
+body{
+    font-style: normal;
+    background-color: #025159;
+    color: #F28705; 
+    text-align: center;
+    background-image: url('Backgrond3.jpg'); 
+    background-size: cover;      
+    background-position: center; 
+    z-index: 2;
+}
+
+.background-image{
+    width: 100%;
+    height: 200%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+.Skills{
+   color: #03A696;
+   background-color: #00000060;
+   border-radius: 10px;
+   width: 80%;
+   margin-left: 10%;
+   position: absolute;
+   height: 70%;
+   z-index: 2;
+   text-align: center; /* Add this line */
+}
+.intro{
+    color: #F28705;
+    background-color: #012E40;
+    border-radius: 10px;
+    width: 80%;
+    margin-left: 10%;
+    position: absolute;
+    height: 5%;
+    z-index: 4;
+    text-align: center; /* Add this line */
+}
+
+.List{
+    margin-left: 0%;
+    margin-top: 5%;
+    z-index: 4;
+}
+
+
+.list1{
+    margin-left: 50%;
+    font-size: 20px;
+    font-weight: bold;
+}
+.list2{
+    margin-left: 57%;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 5%;
+}
+.list3{
+    margin-left: -65%;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: -9.1%;
+}
+.list4{
+    margin-left: -67%;
+    font-size: 20px;
+    font-weight: bold;  
+    margin-top:  5%;
+}
+.list5{
+    margin-left: 50%;
+    font-size: 20px;
+    font-weight: lighter;
+    color: #007ebb;
+}   
+
+image{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+
+.ME2{
+    width: 50%;
+    height: 100%;
+    transform: scale(0.5);
+    position: absolute;
+    top: 0%;
+    left: 25%;
+    z-index: 4;
+    border-radius: 15%;
+    border-width: 5px;
+    border-radius: 50%;
+    border-color: #03A696;
+    border-style: solid;
+}
+.Bio{
+    width: 90%;
+    height: 30%;
+    position: absolute;
+    top: 90%;
+    margin-left: 5%;
+    margin-right: auto;
+    z-index: 4;
+    border-radius: 5%;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: #03a69631;
+    border-style: solid;
+    color: #F28705;
+    background-color: #023f3931;
+}
